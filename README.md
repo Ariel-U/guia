@@ -1,4 +1,4 @@
-# guia
+# **AVISO**
 Este repositorio es solo una ayuda memoria para mi mismo. Necesita mucho trabajo y no está listo para reproducirse en otros sistemas.
 
 # Qué hago despues de instalar una distro?
