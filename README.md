@@ -42,3 +42,5 @@ sudo systemctl restart gdm # gnome
 sudo systemctl restart sddm # plasma
 sudo systemctl restart lightdm # otros
 ```
+## preparar para trabajar con audio
+revisar [este](https://github.com/brendaningram/linux-audio-setup-scripts) repo 
