@@ -10,6 +10,8 @@ pequeña guia para no olvidarme. en el futuro quizás convertir esto en un scrip
 # para arch
 sudo reflector --country Worldwide,Brazil,Chile --protocol https --fastest 10 --verbose --save /etc/pacman.d/mirrorlist && sudo pacman -Syy && cat  /etc/pacman.d/mirrorlist"
 ```
+## swapfile
+
 ## instalar programas más comunes
 ```
 # apps comunes que instalo siempre:
@@ -31,7 +33,8 @@ yay -S install bottles yabridge-bin
 
 # Solo para gnome. Tweaks y extensiones
 gnome-tweaks dash-to-dock dash-to-panel arcmenu gsconnect appindicator capitaine-cursors pavucontrol
-
+# solo para kde
+kde-connect
 ```
 
 ## rescatar dotfiles
